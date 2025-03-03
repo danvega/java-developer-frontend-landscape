@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/vega/dev/presentations/java-developer-frontend-landscape/vaadin-sessions/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/vega/dev/presentations/java-developer-frontend-landscape/vaadin-sessions/./frontend/generated/jar-resources",
+  "staticOutput": "/Users/vega/dev/presentations/java-developer-frontend-landscape/vaadin-sessions/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/vega/dev/presentations/java-developer-frontend-landscape/vaadin-sessions/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/vega/dev/presentations/java-developer-frontend-landscape/vaadin-sessions/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/vega/dev/presentations/java-developer-frontend-landscape/vaadin-sessions/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/vega/dev/presentations/java-developer-frontend-landscape/vaadin-sessions/target/dev-bundle/config",
+  "jarResourcesFolder": "/Users/vega/dev/presentations/java-developer-frontend-landscape/vaadin-sessions/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/vega/dev/presentations/java-developer-frontend-landscape/vaadin-sessions/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
