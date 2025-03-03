@@ -1,0 +1,3 @@
+# Java Developers Guide to Navigating the Frontend Landscape
+
+This is a beginner-friendly session designed for Java developers who are trying to navigate the landscape of frontend development. When you need to develop a new frontend for your application, what approach do you take? Do you leverage your existing Java skills and create it using a Java framework? Or do you opt for a modern JavaScript framework like React, Angular, or Vue? Different requirements may call for different solutions, and in this session, we will explore this topic in depth. By the end of this talk, you will be up to date with the latest techniques for building frontend applications.
