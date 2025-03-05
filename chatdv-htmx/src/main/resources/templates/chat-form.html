@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+<body>
+<div th:fragment="formFragment" id="chat-form-container" class="w-full">
+    <form id="chatForm"
+          class="w-full"
+          hx-post="/generate">
+        <div class="flex items-center bg-gray-200 rounded-full p-2 shadow-md">
+            <input id="message" name="message" class="bg-gray-200 outline-none text-gray-700 rounded-full py-2 px-4 w-full" type="text" placeholder="Message DanGPT">
+            <button type="submit" class="bg-gray-300 hover:bg-gray-400 text-gray-600 rounded-full p-2 ml-2">
+                <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18"></path>
+                </svg>
+            </button>
+        </div>
+    </form>
+</div>
+</body>
+</html>
