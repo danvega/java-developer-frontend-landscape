@@ -25,7 +25,7 @@ public class ChatController {
     public String home() {
         return "index";
     }
-    
+
     @PostMapping("/generate")
     public List<ModelAndView> generate(@RequestParam String message) {
         log.info("User Message: {}", message);
