@@ -18,7 +18,7 @@ public class SessionView extends VerticalLayout {
         setDefaultHorizontalComponentAlignment(Alignment.CENTER);
 
         // Title
-        H1 title = new H1("Spring I/O Sessions");
+        H1 title = new H1("JavaOne 2025 Sessions");
 
         // Grid
         Grid<Session> grid = new Grid<>(Session.class,false);

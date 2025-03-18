@@ -13,7 +13,7 @@
 <body class="max-w-6xl mx-auto">
 
 <h1 class="text-3xl font-bold mt-8 mb-8">
-    DevNexus 2025 Sessions
+    JavaOne 2025 Sessions
 </h1>
 
 <div class="">

@@ -19,7 +19,7 @@ onMounted(() => {
 
 <template>
 <h1 class="text-4xl font-bold mt-8 mb-8">
-  Spring I/O Sessions
+  JavaOne 2025 Sessions
 </h1>
 
 <div class="">
